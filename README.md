@@ -42,7 +42,7 @@ BHP/
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
-- git clone https://github.com/your-username/bangalore-home-price-prediction.git
+- git clone https://github.com/mr360cool/Real-estate-Price-prediction
 - cd bangalore-home-price-prediction/BHP
 
 ### 2. Create a Virtual Environment
